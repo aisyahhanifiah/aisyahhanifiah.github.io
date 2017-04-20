@@ -159,7 +159,7 @@ section h2 {
 section.illustration {
   /*padding-top: 200px;*/
   background: #e5e5db;
-  height: 668px; 
+  height: auto; 
 }
 section.success {
   background: #93b8b1;
